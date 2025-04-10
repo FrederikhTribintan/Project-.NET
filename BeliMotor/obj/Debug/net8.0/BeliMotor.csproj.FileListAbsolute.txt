@@ -1,0 +1,14 @@
+C:\Users\user\Documents\.net\BeliMotor\bin\Debug\net8.0\BeliMotor.exe
+C:\Users\user\Documents\.net\BeliMotor\bin\Debug\net8.0\BeliMotor.deps.json
+C:\Users\user\Documents\.net\BeliMotor\bin\Debug\net8.0\BeliMotor.runtimeconfig.json
+C:\Users\user\Documents\.net\BeliMotor\bin\Debug\net8.0\BeliMotor.dll
+C:\Users\user\Documents\.net\BeliMotor\bin\Debug\net8.0\BeliMotor.pdb
+C:\Users\user\Documents\.net\BeliMotor\obj\Debug\net8.0\BeliMotor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\.net\BeliMotor\obj\Debug\net8.0\BeliMotor.AssemblyInfoInputs.cache
+C:\Users\user\Documents\.net\BeliMotor\obj\Debug\net8.0\BeliMotor.AssemblyInfo.cs
+C:\Users\user\Documents\.net\BeliMotor\obj\Debug\net8.0\BeliMotor.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\.net\BeliMotor\obj\Debug\net8.0\BeliMotor.dll
+C:\Users\user\Documents\.net\BeliMotor\obj\Debug\net8.0\refint\BeliMotor.dll
+C:\Users\user\Documents\.net\BeliMotor\obj\Debug\net8.0\BeliMotor.pdb
+C:\Users\user\Documents\.net\BeliMotor\obj\Debug\net8.0\BeliMotor.genruntimeconfig.cache
+C:\Users\user\Documents\.net\BeliMotor\obj\Debug\net8.0\ref\BeliMotor.dll

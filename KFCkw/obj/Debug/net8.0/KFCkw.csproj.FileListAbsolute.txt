@@ -1,0 +1,14 @@
+C:\Users\user\Documents\.net\KFCkw\bin\Debug\net8.0\KFCkw.exe
+C:\Users\user\Documents\.net\KFCkw\bin\Debug\net8.0\KFCkw.deps.json
+C:\Users\user\Documents\.net\KFCkw\bin\Debug\net8.0\KFCkw.runtimeconfig.json
+C:\Users\user\Documents\.net\KFCkw\bin\Debug\net8.0\KFCkw.dll
+C:\Users\user\Documents\.net\KFCkw\bin\Debug\net8.0\KFCkw.pdb
+C:\Users\user\Documents\.net\KFCkw\obj\Debug\net8.0\KFCkw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\.net\KFCkw\obj\Debug\net8.0\KFCkw.AssemblyInfoInputs.cache
+C:\Users\user\Documents\.net\KFCkw\obj\Debug\net8.0\KFCkw.AssemblyInfo.cs
+C:\Users\user\Documents\.net\KFCkw\obj\Debug\net8.0\KFCkw.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\.net\KFCkw\obj\Debug\net8.0\KFCkw.dll
+C:\Users\user\Documents\.net\KFCkw\obj\Debug\net8.0\refint\KFCkw.dll
+C:\Users\user\Documents\.net\KFCkw\obj\Debug\net8.0\KFCkw.pdb
+C:\Users\user\Documents\.net\KFCkw\obj\Debug\net8.0\KFCkw.genruntimeconfig.cache
+C:\Users\user\Documents\.net\KFCkw\obj\Debug\net8.0\ref\KFCkw.dll

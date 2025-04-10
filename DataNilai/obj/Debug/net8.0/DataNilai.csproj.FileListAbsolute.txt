@@ -1,0 +1,14 @@
+C:\Users\user\Documents\.net\DataNilai\bin\Debug\net8.0\DataNilai.exe
+C:\Users\user\Documents\.net\DataNilai\bin\Debug\net8.0\DataNilai.deps.json
+C:\Users\user\Documents\.net\DataNilai\bin\Debug\net8.0\DataNilai.runtimeconfig.json
+C:\Users\user\Documents\.net\DataNilai\bin\Debug\net8.0\DataNilai.dll
+C:\Users\user\Documents\.net\DataNilai\bin\Debug\net8.0\DataNilai.pdb
+C:\Users\user\Documents\.net\DataNilai\obj\Debug\net8.0\DataNilai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\.net\DataNilai\obj\Debug\net8.0\DataNilai.AssemblyInfoInputs.cache
+C:\Users\user\Documents\.net\DataNilai\obj\Debug\net8.0\DataNilai.AssemblyInfo.cs
+C:\Users\user\Documents\.net\DataNilai\obj\Debug\net8.0\DataNilai.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\.net\DataNilai\obj\Debug\net8.0\DataNilai.dll
+C:\Users\user\Documents\.net\DataNilai\obj\Debug\net8.0\refint\DataNilai.dll
+C:\Users\user\Documents\.net\DataNilai\obj\Debug\net8.0\DataNilai.pdb
+C:\Users\user\Documents\.net\DataNilai\obj\Debug\net8.0\DataNilai.genruntimeconfig.cache
+C:\Users\user\Documents\.net\DataNilai\obj\Debug\net8.0\ref\DataNilai.dll
